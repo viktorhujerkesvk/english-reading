@@ -1,6 +1,6 @@
 ---
 title: Why Is the Sea Salty?
-publish: 2026-11-30 17:00
+publish: 2026-11-30 13:00
 ---
 
 *Rieky majú sladkú vodu a všetky tečú do mora. Prečo je teda more slané?*

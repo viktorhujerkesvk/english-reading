@@ -1,6 +1,6 @@
 ---
 title: Why Evergreen Trees Stay Green
-publish: 2026-12-01 17:00
+publish: 2026-12-01 13:00
 ---
 
 *Prečo ihličnany v zime neopadajú a odkiaľ pochádza vianočný stromček?*

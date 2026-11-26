@@ -1,6 +1,6 @@
 ---
 title: The Wild Turkey
-publish: 2026-11-26 17:00
+publish: 2026-11-26 13:00
 ---
 
 *Morku poznáme z taniera, ale v amerických lesoch žijú milióny divokých moriakov. A tie vedia prekvapiť.*
